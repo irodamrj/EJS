@@ -132,7 +132,7 @@ Now that you have the starter code for this assignment, it's time to do some Goo
 Okay so far so good, we now have another page for our form, now it's time to build it.
 - The form should have 3 fields for the new meme: name, price, and image URL.
 - After the user submits the form a POST request should be sent to the endpoint `/memes` with the form data.
-- Focus on the functionality of the form, and don't worry about styling this page for now.
+- Focus on the functionality of the frmo, and don't worry about styling this page for now.
 
 #### Part 4: POST `/memes`
 Now it's time to handle the POST request we will receive from the form.
